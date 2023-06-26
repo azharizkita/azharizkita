@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**azharizkita/azharizkita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Current works
 
-Here are some ideas to get you started:
+- Full time software engineer at [Delman.io](https://delman.io)
+- Developing my own ORM-like framework at [Hexalts](https://github.com/hexalts) (on my free time only)
+- Currently baking up a brand new marketplace app in Indonesia (definitely will announce the app once it is up 👌) using Hexalts technology stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌱 Ongoing learnings
+
+- NextJS app directory implementation
+
+## 👯 Looking people to collaborate on
+
+- building an adapter for sql-based DBs for [Hexalts RDB](https://github.com/hexalts/rdb)
+
+## 🤔 I’m looking for help with
+
+- building an open-source faker.js-like public API in [Hexalts](https://github.com/hexalts)
+
+## 📫 How to reach me
+
+hit me up via [reuses_reeds.0m@icloud.com](mailto:reuses_reeds.0m@icloud.com) (this is my personal proxied mail address)
+
+## ⚡ Personal takes and fun facts
+
+- There is no actual limitation in JS. If there is, it is usually either "you haven’t figured stuff out yet" or "you haven’t figured stuff out yet".
+- Always put UX above anything. This sense is the only nice standing point you can get as a Front-end engineer.
+- In order to make a solid system, you need a good DX for your team to start with.
+- I hate SQL

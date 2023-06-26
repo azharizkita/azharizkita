@@ -6,6 +6,11 @@
 - Developing my own ORM-like framework at [Hexalts](https://github.com/hexalts) (on my free time only)
 - Currently baking up a brand new marketplace app in Indonesia (definitely will announce the app once it is up 👌) using Hexalts technology stack.
 
+## 🕙 Past works
+
+- Full time software engineer at [PT. Langgeng Cipta Solusi](https://lcsindonesia.com)
+- Internship program as a software engineer at [PT. Finnet Indonesia](https://www.finpay.id)
+- Freelance software engineer at [PT. Wijaya Profesional Inovasi](https://wijaya.co.id)
 
 ## 🌱 Ongoing learnings
 

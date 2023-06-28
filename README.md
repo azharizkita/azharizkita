@@ -33,4 +33,3 @@ hit me up via [reuses_reeds.0m@icloud.com](mailto:reuses_reeds.0m@icloud.com) (t
 - There is no actual limitation in JS. If there is, it is usually either "you haven’t figured stuff out yet" or "you haven’t figured stuff out yet".
 - Always put UX above anything. This sense is the only nice standing point you can get as a Front-end engineer.
 - In order to make a solid system, you need a good DX for your team to start with.
-- I hate SQL

@@ -2,27 +2,27 @@
 
 ## 🔭 Current works
 
-- Full time software engineer at [Delman.io](https://delman.io)
-- Developing my own ORM-like framework at [Hexalts](https://github.com/hexalts) (on my free time only)
-- Currently baking up a brand new marketplace app in Indonesia (definitely will announce the app once it is up 👌) using Hexalts technology stack.
+- Full time software engineer at [Tokopedia](https://www.tokopedia.com/about/) since October 16th, 2023.
+- Rebranding [Hexalts](https://github.com/hexalts) as a principal technology community.
+- Currently baking up a brand new booking app in Indonesia using Hexalts technology principals.
 
-## 🕙 Past works
+## 🕙 Past works (4 years of experience)
 
-- Full time software engineer at [PT. Langgeng Cipta Solusi](https://lcsindonesia.com)
-- Internship program as a software engineer at [PT. Finnet Indonesia](https://www.finpay.id)
-- Freelance software engineer at [PT. Wijaya Profesional Inovasi](https://wijaya.co.id)
+- Full time software engineer at [Delman.io](https://delman.io) | 2 years
+- Full time software engineer at [PT. Langgeng Cipta Solusi](https://lcsindonesia.com) | 1 years and 3 months
+- Internship program as a software engineer at [PT. Finnet Indonesia](https://www.finpay.id) | 6 months
+- Freelance software engineer at [PT. Wijaya Profesional Inovasi](https://wijaya.co.id) | 3 months
 
 ## 🌱 Ongoing learnings
 
-- NextJS app directory implementation
+- SPA Optimizations.
+- Core web vitals principals.
+- Feature flags.
+- Supabase best practices.
 
 ## 👯 Looking people to collaborate on
 
 - building an adapter for sql-based DBs for [Hexalts RDB](https://github.com/hexalts/rdb)
-
-## 🤔 I’m looking for help with
-
-- building an open-source faker.js-like public API in [Hexalts](https://github.com/hexalts)
 
 ## 📫 How to reach me
 
@@ -30,6 +30,6 @@ hit me up via [reuses_reeds.0m@icloud.com](mailto:reuses_reeds.0m@icloud.com) (t
 
 ## ⚡ Personal takes and fun facts
 
-- There is no actual limitation in JS. If there is, it is usually either "you haven’t figured stuff out yet" or "you haven’t figured stuff out yet".
+- If you think there is limitation of JS capabilites, it is usually either "you haven’t figured stuff out yet" or "you haven’t figured stuff out yet".
 - Always put UX above anything. This sense is the only nice standing point you can get as a Front-end engineer.
-- In order to make a solid system, you need a good DX for your team to start with.
+- You need a good DX In order to make a solid system.

@@ -30,6 +30,6 @@ hit me up via [reuses_reeds.0m@icloud.com](mailto:reuses_reeds.0m@icloud.com) (t
 
 ## ⚡ Personal takes and fun facts
 
-- If you think there is limitation of JS capabilites, it is usually either "you haven’t figured stuff out yet" or "you haven’t figured stuff out yet".
+- If you think there is any limitation on JS capabilites, it is usually either "you haven’t figured stuff out yet" or "you haven’t figured stuff out yet".
 - Always put UX above anything. This sense is the only nice standing point you can get as a Front-end engineer.
 - You need a good DX In order to make a solid system.

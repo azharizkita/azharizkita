@@ -2,16 +2,21 @@
 
 ## 🔭 Current works
 
-- Full time software engineer at [Tokopedia](https://www.tokopedia.com/about/) since October 16th, 2023.
+- Software engineer (Web platform engineer) at [Tokopedia](https://www.tokopedia.com/about/) since October 16th, 2023.
 - Rebranding [Hexalts](https://github.com/hexalts) as a principal technology community.
 - Currently baking up a brand new booking app in Indonesia using Hexalts technology principals.
 
 ## 🕙 Past works (4 years of experience)
 
-- Full time software engineer at [Delman.io](https://delman.io) | 2 years
-- Full time software engineer at [PT. Langgeng Cipta Solusi](https://lcsindonesia.com) | 1 years and 3 months
-- Internship program as a software engineer at [PT. Finnet Indonesia](https://www.finpay.id) | 6 months
-- Freelance software engineer at [PT. Wijaya Profesional Inovasi](https://wijaya.co.id) | 3 months
+### Full time
+
+- Software engineer (Front-end engineer) at [Delman.io](https://delman.io) | 2 years
+- Software engineer (Fullstack and DevOps engineer) at [PT. Langgeng Cipta Solusi](https://lcsindonesia.com) | 1 years and 3 months
+
+### Others
+  
+- Software engineer (Fullstack engineer, intern) at [PT. Finnet Indonesia](https://www.finpay.id) | 6 months
+- Software engineer (Fullstack engineer, freelance) at [PT. Wijaya Profesional Inovasi](https://wijaya.co.id) | 3 months
 
 ## 🌱 Ongoing learnings
 
@@ -20,16 +25,12 @@
 - Feature flags.
 - Supabase best practices.
 
-## 👯 Looking people to collaborate on
-
-- building an adapter for sql-based DBs for [Hexalts RDB](https://github.com/hexalts/rdb)
-
 ## 📫 How to reach me
 
-hit me up via [reuses_reeds.0m@icloud.com](mailto:reuses_reeds.0m@icloud.com) (this is my personal proxied mail address)
+HMU via [reuses_reeds.0m@icloud.com](mailto:reuses_reeds.0m@icloud.com)
 
 ## ⚡ Personal takes and fun facts
 
-- If you think there is any limitation on JS capabilites, it is usually either "you haven’t figured stuff out yet" or "you haven’t figured stuff out yet".
-- Always put UX above anything. This sense is the only nice standing point you can get as a Front-end engineer.
-- You need a good DX In order to make a solid system.
+- If you think there is any limitation in JS capabilites, it is either "you haven’t figured stuff out yet" or "you haven’t figured stuff out yet".
+- Good DX leads to a solid system. A solid system leads to a good UX. A good UX makes everyone happy.
+- WLB thing is not given unconditionally. It is about how you create the balance.

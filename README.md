@@ -2,9 +2,7 @@
 
 ## 🔭 Current works
 
-- Software engineer (Web platform engineer) at [Tokopedia](https://www.tokopedia.com/about/) since October 16th, 2023.
-- Rebranding [Hexalts](https://github.com/hexalts) as a principal technology community.
-- Currently baking up a brand new booking app in Indonesia using Hexalts technology principals.
+Software engineer (Web platform engineer) at [Tokopedia](https://www.tokopedia.com/about/) since October 16th, 2023.
 
 ## 🕙 Past works (4 years of experience)
 

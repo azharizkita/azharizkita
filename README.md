@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-## 🔭 Current works
-
-Software engineer (Web platform engineer) at [Tokopedia](https://www.tokopedia.com/about/) since October 16th, 2023.
-
 ## 🕙 Past works (4 years of experience)
 
 ### Full time
 
+- Software engineer (Web platform engineer) at [Tokopedia](https://www.tokopedia.com/about/) | 11 months
 - Software engineer (Front-end engineer) at [Delman.io](https://delman.io) | 2 years
 - Software engineer (Fullstack and DevOps engineer) at [PT. Langgeng Cipta Solusi](https://lcsindonesia.com) | 1 years and 3 months
 

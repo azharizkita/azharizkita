@@ -2,7 +2,7 @@
 
 ## 💼 Current work
 
-- Software engineer (Front-end engineer) at 99 Group
+- Software engineer (Front-end engineer) at [99 Group](https://www.99.co/about-us)
 
 ## 🕙 Past works
 

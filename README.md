@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-## 🕙 Past works (4 years of experience)
+## 💼 Current work
+
+- Software Engineer (Front-end engineer) at 99 Group
+
+## 🕙 Past works
 
 ### Full time
 

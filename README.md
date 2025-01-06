@@ -14,9 +14,11 @@ _“Give sorrow words; the grief that does not speak knits up the o-er wrought h
 
 | **Question**              | **Answer** |
 |:--------------------------|:----------|
-| **Relationship status?** | <details><summary>Reveal</summary>Somewhere between *I don't know* and *you don't understand.*</details> |
-| **How is your daily life?** | <details><summary>Reveal</summary>Contributing to [99 Group](https://www.99.co/about-us). I also shitpost at [silenced.life](https://silenced.life).</details> |
-| **Do you accept side jobs?** | <details><summary>Reveal</summary>I'm occupied. Currently hustling on [@hexalts](https://github.com/hexalts).</details> |
-| **Can I see your full CV?** | <details><summary>Reveal</summary>HMU via **reuses_reeds.0m@icloud.com**.</details> |
-| **Do you have a fun fact?** | <details><summary>Reveal</summary>I have this superpower called **_I can bore you to death_**.</details> |
-| **What is your wisdom?** | <details><summary>Reveal</summary>Never, ever take anything for granted. *(I learned the hard way, trust me.)*</details> |
+| **Relationship status?** | Somewhere between *I don't know* and *you don't understand.* |
+| **How is your daily life?** | Contributing to [99 Group](https://www.99.co/about-us). I also shitpost at [silenced.life](https://silenced.life). |
+| **Do you accept side jobs?** | I'm occupied. Currently hustling on [@hexalts](https://github.com/hexalts). |
+| **How do you manage your time?** | 9-18 on [99 Group](https://www.99.co/about-us), 21-24 on [@hexalts](https://github.com/hexalts).|
+| **Can I see your full CV?** | HMU via **reuses_reeds.0m@icloud.com**. |
+| **Do you have a fun fact?** | I have this superpower called **_I can bore you to death_**. |
+| **What is your wisdom?** | Never, ever take anything for granted. *(I learned the hard way, trust me.)* |
+| **What do you think about work life balance takes?** | Depends. Wanna do slow livivng? It is make sense. Wanna get rich? It's a myth |

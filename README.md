@@ -14,7 +14,6 @@ _“Give sorrow words; the grief that does not speak knits up the o-er wrought h
 
 | **Question**              | **Answer** |
 |:--------------------------|:----------|
-| **Relationship status?** | Somewhere between *I don't know* and *you don't understand.* |
 | **How is your daily life?** | Contributing to [99 Group](https://www.99.co/about-us). I also shitpost at [silenced.life](https://silenced.life). |
 | **Do you accept side jobs?** | I'm occupied. Currently hustling on [@hexalts](https://github.com/hexalts). |
 | **How do you manage your time?** | 9-18 on [99 Group](https://www.99.co/about-us), 21-24 on [@hexalts](https://github.com/hexalts).|

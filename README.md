@@ -6,8 +6,9 @@ I stay chill, as long as you don’t bring chaos to the table 👍
 
 ### Best Thing I Saw This Month
 
-“Give sorrow words; the grief that does not speak knits up the o-er wrought heart and bids it break.”
-— Macbeth, Act 4, Scene 3
+> “Give sorrow words; the grief that does not speak knits up the o-er wrought heart and bids it break.”
+
+— _Macbeth, Act 4, Scene 3_
 
 ### Favorite Meme of All Time
 

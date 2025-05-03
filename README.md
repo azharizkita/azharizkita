@@ -7,7 +7,7 @@ _“Give sorrow words; the grief that does not speak knits up the o-er wrought h
 ## Favorite Meme
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/001e15c4-4000-49c8-ba7b-b866dc9dc745" alt="Favorite Meme" width="50%">
+  <img src="https://github.com/user-attachments/assets/001e15c4-4000-49c8-ba7b-b866dc9dc745" alt="Favorite Meme" width="50%" />
 </div>
 
 ## FAQs

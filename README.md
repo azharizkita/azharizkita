@@ -17,9 +17,9 @@ I stay chill, as long as you don’t bring chaos to the table 👍
 
 | Question | Answer |
 |:-|:-|
-| What’s your daily life like? | Building things at 99 Group. Then dumping thoughts at silenced.life. |
-| Any side gigs? | Not now. Nights are for @hexalts. Hustling quietly. |
-| How do you manage your time? | 9–18 for 99, 21–24 for Hexalts. Everything else is sleep, food, or overthinking. |
+| What’s your daily life like? | Building things at [99 Group](https://99.co/singapore/sale). Then dumping thoughts at [silenced.life](https://silenced.life). |
+| Any side gigs? | Not now. Nights are for [@hexalts](https://github.com/hexalts). |
+| How do you manage your time? | 9–18 for [99](https://99.co/singapore/sale), 21–24 for [Hexalts](https://github.com/hexalts). Everything else is sleep, food, or overthinking. |
 | Can I see your full CV? | Ping me: [reuses_reeds.0m@icloud.com](mailto:reuses_reeds.0m@icloud.com). |
 | Special talent? | I can **bore** people to death. |
 | What is your wisdom? | **Never take anything for granted**. Learned the hard way so you don't have to. |

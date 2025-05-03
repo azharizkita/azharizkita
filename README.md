@@ -1,16 +1,20 @@
-## Best thing I saw this month
+## Who am I?
+
+I'm a pretty chill person if you are chill as well 👍
+
+### Best thing I saw this month
 
 _“Give sorrow words; the grief that does not speak knits up the o-er wrought heart and bids it break.”_
 
 — Macbeth (Act 4, Scene 3)
 
-## Favorite Meme
+### Favorite Meme
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/001e15c4-4000-49c8-ba7b-b866dc9dc745" alt="Favorite Meme" width="50%" />
 </div>
 
-## FAQs
+### FAQs
 
 | **Question**              | **Answer** |
 |:--------------------------|:----------|
